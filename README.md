@@ -24,7 +24,5 @@ If you're passionate about open source or looking to collaborate on exciting pro
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Parachute.png" alt="Party Popper" width="30" height="30" /> Get in touch
 
-## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25"/>&nbsp;[Checkout my portfolio](https://zeyar.dev/)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="25"/>&nbsp;[Read my blogs](https://zeyar.dev/blogs)<br/>

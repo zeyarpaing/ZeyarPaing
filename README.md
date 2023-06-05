@@ -15,13 +15,13 @@ If you're passionate about open source or looking to collaborate on exciting pro
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="28" height="28" /> What I use
 
 ![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,vuejs,flutter,nextjs,redux,tailwind,prisma,nodejs,go,neovim&perline=6)
-
+<!-- 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar chart" width="28" height="28" /> GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ZeyarPaing&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyarPaing&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=react-tailwind-boilar)
-
+ -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Parachute.png" alt="Party Popper" width="30" height="30" /> Get in touch
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25"/>&nbsp;[Checkout my portfolio](https://zeyar.dev/)<br/>

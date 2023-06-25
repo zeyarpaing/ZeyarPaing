@@ -1,12 +1,15 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Jack-O-Lantern.png" alt="Hi, I'm Zeyar Paing" width="40" height="40" />
 
+[<img src="https://img.shields.io/stackexchange/stackoverflow/r/12284746?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" alt="stackoverflow" />](https://stackoverflow.com/users/12284746/zeyar-paing)
+![](https://komarev.com/ghpvc/?username=ZeyarPaing&style=for-the-badge)
+
 ## About me
 
 I'm a passionate software developer specializing in web frontend development, with a strong focus on creating delightful user experiences. I also have a keen interest and deep passion for developing developer tools and open source projects.
 
 If you're passionate about open source or looking to collaborate on exciting projects, I'm always open to new opportunities. Let's connect and create something great together!
 
-<!-- [![](https://visitcount.itsvg.in/api?id=ZeyarPaing&icon=1&color=8)](https://visitcount.itsvg.in) -->
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Flying Saucer" width="28" height="28" /> Projects
 

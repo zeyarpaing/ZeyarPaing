@@ -3,13 +3,9 @@
 [<img src="https://img.shields.io/stackexchange/stackoverflow/r/12284746?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" alt="stackoverflow" />](https://stackoverflow.com/users/12284746/zeyar-paing)
 ![](https://komarev.com/ghpvc/?username=ZeyarPaing&style=for-the-badge)
 
-## About me
+## Hi there! I'm Zeyar Paing
 
-I'm a passionate software developer specializing in web frontend development, with a strong focus on creating delightful user experiences. I also have a keen interest and deep passion for developing developer tools and open source projects.
-
-If you're passionate about open source or looking to collaborate on exciting projects, I'm always open to new opportunities. Let's connect and create something great together!
-
-[<img src="https://rezeve.zendesk.com/embeddable/avatars/17312822610713" alt="Flying Saucer" width="58" height="58" style="border-radius: 12px" />](https://rezeve.com/)
+I'm a software developer who enjoys building web frontends that feel smooth and intuitive to use. I’m also really into creating developer tools and working on open source projects that make life easier for other developers.
 
 <!-- ![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,vuejs,flutter,nextjs,redux,tailwind,prisma,nodejs,go,neovim&perline=6) -->
 <!-- 

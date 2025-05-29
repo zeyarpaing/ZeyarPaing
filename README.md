@@ -31,7 +31,4 @@ If you're passionate about open source or looking to collaborate on exciting pro
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="25"/>&nbsp;[Read my blogs](https://zeyar.dev/blogs)<br/>
 
 ## Language insight (Wakatime)
-<img src="https://wakatime.com/share/@zeyarpaing/b697d3a0-175a-475b-b2c9-db6d1b0293ab.svg" width="700" />
-
-## Coding activity (Wakatime)
-<img src="https://wakatime.com/share/@zeyarpaing/89ab505c-15c3-49bd-9aa7-6e7e88c8f92c.svg" width="900" />
+<img src="https://wakatime.com/share/@zeyarpaing/b697d3a0-175a-475b-b2c9-db6d1b0293ab.svg" width="600" />
